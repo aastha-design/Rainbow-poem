@@ -2,6 +2,7 @@ The rainbowand the unicorn
 red
 orange
 yellow
+violet
 green
 unicorn
 these are the colours of rainbow
